@@ -1,2 +1,2 @@
 # Asteroid-Simulator
-Simulating colissions of given asteroids using C++
+Simulating colissions of given asteroids via C++
